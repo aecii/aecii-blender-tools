@@ -1,2 +1,22 @@
-# aecii-blender-tools
-Blender 3d add on which adds Shape key search feature, remove empty blend shapes, remove empty vertex and bones quickly. 
+# aecii's Tools — Blender Addon
+**Version:** 1.4.0 | Blender 4.5+
+
+A small rigging and mesh cleanup toolkit that lives in the N panel (View3D > aecii's tools).
+
+---
+
+## What's inside
+
+**Remove Unused Bones** — Cleans up any bones in an armature that have no weighted vertices on any skinned mesh.
+
+**Remove Empty Vertex Groups** — Removes vertex groups from a mesh that have zero weights assigned.
+
+**Remove Empty Blendshapes** — Deletes shape keys that contain no actual deformation compared to their relative key.
+
+**Shape Key Search** — Select a mesh and type to instantly filter its shape keys by name. Each result includes an inline value slider so you can tweak it on the spot.
+
+---
+
+## Need help?
+
+Reach out on X: [@aecii_3d](https://x.com/aecii_3d)
