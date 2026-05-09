@@ -20,7 +20,15 @@ A small rigging and mesh cleanup toolkit that lives in the N panel (View3D > aec
 
 
 
----
+Note: 
+make a backup of anything you use this on. Just in case. 
+
+Known issues: 
+It will remove "Viseme_Sil",  "Sil", or any silence shape key if those blendshapes have 0 / neutral data in them. 
+Be aware of that. Empty blend shape means empty blendshape. Maybe later I will find a way to exclude all silence vismemes. 
+...I should probably rename "blendshapes" to "shapekeys" for consistency... But you know what I mean. 
+
+
 
 ## Need help?
 
