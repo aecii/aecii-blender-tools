@@ -15,6 +15,10 @@ A small rigging and mesh cleanup toolkit that lives in the N panel (View3D > aec
 
 **Shape Key Search** — Select a mesh and type to instantly filter its shape keys by name. Each result includes an inline value slider so you can tweak it on the spot.
 
+<img width="1504" height="939" alt="image" src="https://github.com/user-attachments/assets/380207a9-9638-41f1-8998-7ec13d4fec10" />
+
+
+
 ---
 
 ## Need help?
